@@ -1,0 +1,23 @@
+Nmap
+
+OpenSSL
+
+Pure Hacking
+
+Nessus
+
+Cain & Abel
+
+Torrid Networks
+
+Metasploit
+
+THC Hydra
+
+SecPoint
+
+Wireshark
+
+w3af
+
+Veracode
