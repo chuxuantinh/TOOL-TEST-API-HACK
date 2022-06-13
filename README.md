@@ -29,7 +29,7 @@
   <a href="#training-walkthrough-labs">Training, Walkthrough, Labs</a> •
   <a href="#twitter">Twitter</a> •
   </br>
-  • <a href="#contributions">Contributions</a> •
+ 
 </p>
 
 ---
@@ -38,7 +38,7 @@
 The awesome-api-security (aka awesome-apisec) repository is collection of awesome API Security tools and resources.     
 The focus goes to open-source tools and resources that benefit all the community.    
 
-Please read the <a href="#contributions">contributions</a> section before opening a pull request.
+
 
 ## API Keys: Find and validate
 | Name | Description |
@@ -296,24 +296,3 @@ Name | Author | Description |
 | OWASP-SKF | [GraphQL Labs](https://demo.securityknowledgeframework.org/labs/view) | GraphQL Labs on the OWASP Security Knowledge Framework |
 | Wesley Thijs | [Let's build an API to hack](https://hackxpert.com/blog/API-Hacking-Excercises/) |  API Hacking Excercises by @TheXSSrat |
 
-## Twitter
-| Author  | Name | Description |
-| ------- | ---- | ----------- |
-| 42Crunch | [@apisecurityio](https://twitter.com/apisecurityio/) | API security news, standards, vulnerabilities, tools. |
-
-## Contributions
-1. The purpose of this repository is to collect API Security tools and resources. The preference goes to open-source or community editions tools, creative commons resources, and resources created by the community for the benefit of the community. The exception is in the book's topic, where some referenced items may have an associated cost.
-
-2. Other content vendor-specific, ads, commercial, restricted, free trial, freemium, closed-source (proprietary software), products or services provided in exchange for private user details are considered out of scope pull requests.
-
-3. Duplicated content or entries that do not provide additional or relevant content compared with existing entries may also not be considered.
-
-5. Out of scope pull requests will be probably discarded, closed or ignored without notice.
-
-If you think your content fits the above purposes, please
-- create a new branch
-- change README.md
-- push the new changes
-- open a pull request
-
-For more details check GitHub [quickstart/contributing-to-projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
